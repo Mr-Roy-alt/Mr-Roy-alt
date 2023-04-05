@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +82,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr-Roy-alt/Mr-Roy-alt/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2023 12:24:56 UTC
+ Last Updated on 05/04/2023 15:12:53 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
