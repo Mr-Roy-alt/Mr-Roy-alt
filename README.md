@@ -13,7 +13,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mr-Roy-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -101,6 +100,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ---
 ## 💰 You can help me by Donating
