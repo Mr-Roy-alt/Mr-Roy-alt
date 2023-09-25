@@ -52,14 +52,10 @@ Sunday                   82 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-JavaScript               25 mins             ████████████████░░░░░░░░░   62.87 % 
-CSS                      13 mins             ████████░░░░░░░░░░░░░░░░░   32.70 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -79,7 +75,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr-Roy-alt/Mr-Roy-alt/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2023 21:09:11 UTC
+ Last Updated on 25/09/2023 00:46:24 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
