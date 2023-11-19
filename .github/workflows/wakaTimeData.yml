@@ -2,7 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+  # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -18,3 +19,4 @@ jobs:
 
 #- uses: anmol098/waka-readme-stats@master
 #- uses: athul/waka-readme@master
+#- cron: "0 */3 * * *"
