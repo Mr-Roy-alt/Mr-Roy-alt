@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my BeOn Project. <br>👯 I’m looking to collaborate on open source projects<br>😄 Pronouns: He/Him<br>🌱 I’m currently learning AWS<br>💬 Ask me about... Anything(Just feel free)<br>⚡ Fun fact: Fun fact: I speak 2 languages ( English, French)
+🔭 I’m currently working on my projects i.e. ScrimbaDairy & BeOn. <br>👯 I’m looking to collaborate on open source projects<br>😄 Pronouns: He/Him<br>🌱 I’m currently learning NEXT JS<br>💬 Ask me about... Anything(Just feel free)<br>⚡ Fun fact: Fun fact: I speak 2 languages ( English, French)
 
 
 ## 🌐 Socials:
