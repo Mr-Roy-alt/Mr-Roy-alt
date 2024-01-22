@@ -15,9 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 343.7 kB Used in GitHub's Storage 
- > 
-> 🏆 23 Contributions in the Year 2024
+> 📦 343.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -52,9 +50,9 @@ Sunday                   97 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ██████████████████████░░░   86.07 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               1 hr 55 mins        ██████████████████████░░░   86.02 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
@@ -77,7 +75,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr-Roy-alt/Mr-Roy-alt/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2024 18:37:21 UTC
+ Last Updated on 22/01/2024 18:38:28 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
