@@ -17,8 +17,6 @@
 
 > 📦 343.6 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 83 Public Repositories 
@@ -52,10 +50,10 @@ Sunday                   97 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -75,7 +73,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr-Roy-alt/Mr-Roy-alt/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2024 18:36:55 UTC
+ Last Updated on 06/02/2024 18:36:53 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
