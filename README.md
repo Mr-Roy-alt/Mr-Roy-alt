@@ -17,8 +17,6 @@
 
 > 📦 346.8 kB Used in GitHub's Storage 
  > 
-> 🏆 138 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 84 Public Repositories 
@@ -78,7 +76,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr-Roy-alt/Mr-Roy-alt/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2024 18:38:53 UTC
+ Last Updated on 28/06/2024 18:39:21 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
