@@ -9,7 +9,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                228 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-🌆 Daytime                507 commits         █████████░░░░░░░░░░░░░░░░   36.93 % 
-🌃 Evening                294 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-🌙 Night                  344 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+🌞 Morning                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+🌆 Daytime                508 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌃 Evening                295 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+🌙 Night                  344 commits         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   250 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Thursday                 205 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Friday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Monday                   253 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Thursday                 205 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Friday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Saturday                 160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Sunday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 ```
 
 
@@ -52,14 +52,14 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-HTML                     18 hrs 52 mins      ██████████████████████░░░   88.47 % 
-CSS                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Liquid                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+HTML                     19 hrs 19 mins      ██████████████████████░░░   86.76 % 
+JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Liquid                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -79,7 +79,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr-Roy-alt/Mr-Roy-alt/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2024 18:41:27 UTC
+ Last Updated on 12/08/2024 18:42:54 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
